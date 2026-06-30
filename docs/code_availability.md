@@ -1,0 +1,3 @@
+# Code availability
+
+The custom code used for cfDNA methylation processing, 5mC-enriched fragmentomic feature extraction, CT habitat generation, model development, multi-modal integration, performance evaluation, model interpretation and statistical analyses will be made publicly available on GitHub and archived on Zenodo upon publication. The archived release will include source code, software environment specifications, model configurations and example workflows required to reproduce the principal analyses and figures. Individual-level clinical, sequencing and imaging data are not included in this repository because of institutional and patient-privacy restrictions.

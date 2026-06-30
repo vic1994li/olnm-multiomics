@@ -1,0 +1,10 @@
+model:
+  name: methylation_model
+  status: placeholder
+features:
+  modality: cfDNA_methylation
+  selection: top_100_candidate_lnm_associated_bins
+training:
+  cohort: training
+  cross_validation: stratified_10_fold
+notes: Exact hyperparameters and feature definitions will be added before release.

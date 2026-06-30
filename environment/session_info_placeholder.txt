@@ -1,0 +1,7 @@
+R and Python session information will be added before the archived release.
+
+Planned contents:
+- Operating system
+- R version and package versions
+- Python version and package versions
+- CUDA and hardware information, where applicable

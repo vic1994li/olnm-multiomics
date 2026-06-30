@@ -1,0 +1,8 @@
+name: olnm-multiomics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  # Exact versions and analysis dependencies will be pinned before release.

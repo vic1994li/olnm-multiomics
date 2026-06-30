@@ -1,0 +1,9 @@
+model:
+  name: fragmentomic_model
+  status: placeholder
+features:
+  modality: 5mC_enriched_cfDNA_fragmentomics
+training:
+  cohort: training
+  cross_validation: stratified_10_fold
+notes: Exact feature definitions and hyperparameters will be added before release.

@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+packrat/lib*/
+packrat/src/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+tmp/
+temp/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+
+# Clinical, sequencing and imaging data
+data/
+raw_data/
+clinical_data/
+sequencing_data/
+imaging_data/
+protected_data/
+private_data/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.dcm
+*.nii
+*.nii.gz
+
+# Large or generated analysis artifacts
+results/*
+!results/README.md
+model_weights/*
+!model_weights/README.md
+example_data/*
+!example_data/README.md
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# Office working files
+*.xlsx
+*.xls
+*.docx
+*.pptx

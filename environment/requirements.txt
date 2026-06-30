@@ -1,0 +1,6 @@
+# Python dependencies will be pinned before the archived release.
+# Example:
+# numpy==
+# pandas==
+# scikit-learn==
+# shap==

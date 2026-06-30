@@ -1,0 +1,9 @@
+model:
+  name: ct_habitat_model
+  status: placeholder
+features:
+  modality: CT_habitat_imaging
+training:
+  cohort: training
+  cross_validation: to_be_documented
+notes: Segmentation, habitat generation and model settings will be added before release.

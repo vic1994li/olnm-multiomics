@@ -1,0 +1,10 @@
+model:
+  name: score_level_multiomics_model
+  status: placeholder
+inputs:
+  - methylation_score
+  - fragmentomic_score
+  - ct_habitat_score
+training:
+  cohort: training
+notes: Pairwise and three-modality integration settings will be added before release.
